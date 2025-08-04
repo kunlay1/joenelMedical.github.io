@@ -1,0 +1,8 @@
+{
+  "useSmtp": false,
+  "host": "stmp.joenelmedical.com",
+  "port": 465,
+  "username": "info@joenelmedical.com",
+  "password": "Oyi1MonNye",
+  "recipientEmail": "info@joenelmedical.com"
+}
